@@ -1,0 +1,52 @@
+.form {
+  display: grid;
+  grid-template-columns: 100%;
+  justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  color: #6C63FF;
+}
+
+form > * {
+  margin: 10px 0%;
+  padding: 12px;
+  border: 1px solid #d0d9d4;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 100%;
+} 
+
+.email {
+  display: none;
+}
+
+.email {
+  color: #6C63FF;
+  padding-top: 10%;
+}
+
+.button {
+  width: fit-content;
+  background: #6C63FF;
+  border-radius: 4px;
+  margin: auto;
+  color:#d0d9d4;
+}
+
+.button:hover {
+  box-shadow: 0 8px 16px 0 #36b37f3d;
+}
+
+.button:active {
+  background-color: #008552;
+}
