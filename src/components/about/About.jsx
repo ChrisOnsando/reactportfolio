@@ -7,7 +7,7 @@ const About = () => {
         <div className="about-card-bg"></div>
         <div className="about-card">
           <img
-            src="https://www.pexels.com/photo/stacked-of-stones-outdoors-289586/"
+            src="./images/pexels.jpg"
             alt=""
             className="about-img"
           />
@@ -15,7 +15,7 @@ const About = () => {
       </div>
       <div className="about-right">
         <h1 className="about-title">About Me</h1>
-        <p className="about-sub">
+        <p className="about-subtext">
 Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Quibusdam, nesciunt? Ut, corporis? Ad animi, quidem saepe necessitatibus 
 illum vero officiis! Minus iure maxime vel atque possimus reiciendis omnis
