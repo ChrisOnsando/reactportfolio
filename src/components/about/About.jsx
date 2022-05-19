@@ -7,7 +7,7 @@ const About = () => {
         <div className="about-card-bg"></div>
         <div className="about-card">
           <img
-            src="./images/pexels.jpg"
+            src={require('../images/pexels.jpg')}
             alt=""
             className="about-img"
           />

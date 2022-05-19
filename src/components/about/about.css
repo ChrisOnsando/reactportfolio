@@ -1,40 +1,30 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 .about {
-  height: 100vh;
-  display: flex;
-  align-items: center;
+  padding: 5% 5%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
 }
 
 .about-left {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  height: 100%;
-}
-
-.about-right {
-  flex: 1;
+  width: 100%;
 }
 
 .about-card.bg {
-  position: absolute;
-  top: 50px;
-  left: 50px;
   background-color: #333;
 }
 
 .about-card {
-  width: 60%;
-  height: 70vh;
   border-radius: 30px;
-  position: relative;
   overflow: hidden;
 }
 
 .about-img {
   width: 100%;
-  height: 100%;
+  max-width: 100%;
   object-fit: cover;
 }
 
