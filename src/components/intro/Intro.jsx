@@ -16,10 +16,8 @@ const Intro = () => {
             </div>
           </div>
           <p className="intro-desc">
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
-Alias sunt quod a, temporibus minima facilis nulla voluptas
-quam optio numquam quaerat illum delectus enim accusamus architecto,
-eveniet sit libero modi.
+I am a web developer.
+My expertise is to create website design and graphic design.
           </p>
     </div>
 </div>
