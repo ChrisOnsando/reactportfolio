@@ -16,7 +16,7 @@ const About = () => {
       <div className="about-right">
         <h1 className="about-title">About Me</h1>
         <p className="about-subtext">
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Am a Web Developer
 Quibusdam, nesciunt? Ut, corporis? Ad animi, quidem saepe necessitatibus 
 illum vero officiis! Minus iure maxime vel atque possimus reiciendis omnis
 debitis ea.
